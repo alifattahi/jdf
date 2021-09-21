@@ -1,0 +1,22 @@
+{
+    "name": "alifti/jdf",
+    "description":"Persian Jalali date for laravel , This package provide all methods that you need for shamsi/jalali date",
+    "keywords":["jdf","laravel"],
+    "license":"Apache",
+    "authors": [
+        {
+            "name": "Ali Fattahi",
+            "email": "ali.robocup@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Alifti\\Jdf": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
