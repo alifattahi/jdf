@@ -1,3 +1,5 @@
+## DEPRICATED - DONT USE THIS LIBRARY
+
 alifattahi/jdf
 ======
 
